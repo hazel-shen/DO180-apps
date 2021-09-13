@@ -4,6 +4,7 @@
   "description": "Hello World App",
   "main": "server.js",
   "author": "Red Hat Training",
+  "scripts": "",
   "license": "ASL",
   "dependencies": {
     "express": "4.x",
